@@ -1,0 +1,3 @@
+# Will ignore all the text files in JS Folder
+
+JS/*.txt

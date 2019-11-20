@@ -1,0 +1,4 @@
+# gitignore file is used to ignore files from getting added to the repository
+
+# Ignoring a file
+/helloWorld.py
